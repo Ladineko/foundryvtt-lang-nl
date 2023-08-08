@@ -1,58 +1,24 @@
 {
-    "name" : "lang-nl",
-    "title" : "Dutch [Core]",
-    "version" : "0.0.1",
-    "minimumCoreVersion" : "0.7.9",
-    "compatibleCoreVersion" : "11",
-    "compatibility": {
-        "minimum": "0.7.9",
-        "verified": "11"
+  "name" : "FoundryVTT-NL",
+  "title" : "Translation: Dutch [Core]",
+  "description" : "Dutch language support for Foundry VTT",
+   "compatibility": {
+    "minimum": "0.7.9",
+    "verified": "11"
     },
-    "author" : "Ladineko",
-    "description" : "Dutch language support for Foundry VTT",
-    "coreTranslation": true,
-    "languages" : [
-      {
-         "lang" : "nl",
-         "name" : "Nederlands",
-         "path" : "nl.json"
-      }
-    ],
-    "packs" : [],
-    "scripts" : [],
-    "styles" : [],
-    "url" : "https://github.com/Ladineko/foundryvtt-lang-nl",
-    "manifest" : "https://github.com/Ladineko/foundryvtt-lang-nl/raw/main/module.json",
-    "download" : "https://github.com/Ladineko/foundryvtt-lang-nl/archive/v0.0.1.zip",
-    "authors": [
-      {
-        "name": "Mitchel van Emmerik",
-        "discord": "ladineko#0000"
-      }
-    ],
-  "media": [
+  "coreTranslation": "true",
+  "author": "Ladineko",
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+  "languages": [
     {
-      "type": "icon",
-      "url": "https://raw.githubusercontent.com/Ladineko/foundryvtt-lang-nl/master/foundry_lang_nl.png"
-    },
-    {
-      "type": "cover",
-      "url": "https://raw.githubusercontent.com/Ladineko/foundryvtt-lang-nl/master/foundry_lang_nl.png"
-    },
-    {
-      "type": "setup",
-      "caption": "Foundry in het Nederlands",
-      "thumbnail": "/modules/lang-nl/foundry_lang_nl.png"
+      "lang" : "nl",
+      "name" : "Nederlands",
+      "path" : "nl.json"
     }
   ],
-  "flags": {
-    "media": [
-      {
-        "type": "cover",
-        "url": "https://raw.githubusercontent.com/Ladineko/foundryvtt-lang-nl/master/foundry_lang_nl.png"
-      }
-    ],
-    "manifestPlusVersion": "1.2.0",
-    "allowBugReporter": true
-  }
+  "url": "https://github.com/Ladineko/foundryvtt-lang-nl",
+  "manifest": "https://gitlab.com/montver/foundry-vtt-catala/-/raw/master/ca/module.json",
+  "download": "https://gitlab.com/montver/foundry-vtt-catala/-/jobs/artifacts/master/raw/ca.zip?job=build"
 }
