@@ -19,6 +19,6 @@
     }
   ],
   "url": "https://github.com/Ladineko/foundryvtt-lang-nl",
-  "manifest": "https://gitlab.com/montver/foundry-vtt-catala/-/raw/master/ca/module.json",
-  "download": "https://gitlab.com/montver/foundry-vtt-catala/-/jobs/artifacts/master/raw/ca.zip?job=build"
+  "manifest" : "https://github.com/Ladineko/foundryvtt-lang-nl/raw/main/module.json",
+  "download" : "https://github.com/Ladineko/foundryvtt-lang-nl/archive/v0.0.1.zip"
 }
