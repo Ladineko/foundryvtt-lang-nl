@@ -1,0 +1,58 @@
+{
+    "name" : "lang-nl",
+    "title" : "Dutch [Core]",
+    "version" : "0.0.1",
+    "minimumCoreVersion" : "0.7.9",
+    "compatibleCoreVersion" : "11",
+    "compatibility": {
+        "minimum": "0.7.9",
+        "verified": "11"
+    },
+    "author" : "Ladineko",
+    "description" : "Dutch language support for Foundry VTT",
+    "coreTranslation": true,
+    "languages" : [
+      {
+         "lang" : "nl",
+         "name" : "Nederlands",
+         "path" : "nl.json"
+      }
+    ],
+    "packs" : [],
+    "scripts" : [],
+    "styles" : [],
+    "url" : "https://github.com/Ladineko/foundryvtt-lang-nl",
+    "manifest" : "https://raw.githubusercontent.com/Ladineko/foundryvtt-lang-nl/master/module.json",
+    "download" : "https://github.com/Ladineko/foundryvtt-lang-nl/archive/v0.0.1.zip",
+    "authors": [
+      {
+        "name": "Mitchel van Emmerik",
+        "discord": "ladineko#0000"
+      }
+    ],
+  "media": [
+    {
+      "type": "icon",
+      "url": "https://raw.githubusercontent.com/Ladineko/foundryvtt-lang-nl/master/foundry_lang_nl.png"
+    },
+    {
+      "type": "cover",
+      "url": "https://raw.githubusercontent.com/Ladineko/foundryvtt-lang-nl/master/foundry_lang_nl.png"
+    },
+    {
+      "type": "setup",
+      "caption": "Foundry in het Nederlands",
+      "thumbnail": "/modules/lang-nl/foundry_lang_nl.png"
+    }
+  ],
+  "flags": {
+    "media": [
+      {
+        "type": "cover",
+        "url": "https://raw.githubusercontent.com/Ladineko/foundryvtt-lang-nl/master/foundry_lang_nl.png"
+      }
+    ],
+    "manifestPlusVersion": "1.2.0",
+    "allowBugReporter": true
+  }
+}
