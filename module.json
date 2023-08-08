@@ -22,7 +22,7 @@
     "scripts" : [],
     "styles" : [],
     "url" : "https://github.com/Ladineko/foundryvtt-lang-nl",
-    "manifest" : "https://raw.githubusercontent.com/Ladineko/foundryvtt-lang-nl/master/module.json",
+    "manifest" : "https://github.com/Ladineko/foundryvtt-lang-nl/raw/main/module.json",
     "download" : "https://github.com/Ladineko/foundryvtt-lang-nl/archive/v0.0.1.zip",
     "authors": [
       {
