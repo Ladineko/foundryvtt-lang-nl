@@ -2,6 +2,8 @@
 
 ![](https://img.shields.io/badge/compatibility-0.7.9+-yellow) ![](https://img.shields.io/badge/verified-11-green)
 
+![](https://github.com/Ladineko/foundryvtt-lang-nl/blob/main/foundry_lang_nl.png?raw=true)
+
 ## Installation
 
 1. Copy this link and use it in Foundrys module manager to install the module
